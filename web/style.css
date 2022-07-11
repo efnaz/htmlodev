@@ -1,0 +1,44 @@
+h1 {
+    color: brown;
+    font-style: italic;
+    font-size: 40px;
+}
+
+.a {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.d {
+    font-weight: bold;
+}
+
+.c{
+    text-align: left;
+}
+
+.bg-brown {
+    color: brown;
+}
+
+.bg-white {
+    color: white;
+}
+
+ul.b {
+    list-style-position: inside;
+  }
+
+.btn {
+    float: left;
+    background-color: brown;
+    width: 200px;
+    height: auto;
+    border-radius: 25px;
+}
+.container{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+}
+
